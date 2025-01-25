@@ -1,15 +1,14 @@
-# emoji-password-generator
-# 🔑 PassGenie - Your Wish, Your Password!
+# 🔑 Emoji Password Generator - Your Wish, Your Password!
 
-Welcome to **PassGenie**, the Python-based password generator that grants your security wishes! No fancy UI here, just good ol' terminal magic. 🤖
+Welcome to **Emoji Password Generator**, the Python-based password generator that grants your security wishes! No fancy UI here, just good ol' terminal magic. 🤖
 
 ---
 
-## 🧠 Why use PassGenie?
+## 🧠 Why use Emoji Password Generator?
 
-Ever felt like your passwords are just too *predictable*? "12345" ain't cutting it anymore? Need something quirky, fun, and secure? Look no further!
+Ever felt like your passwords are just too *predictable*? "password123" ain't cutting it anymore? Need something quirky, fun, and secure? Look no further!
 
-With **PassGenie**, you can:
+With **Emoji Password Generator**, you can:
 - 🌟 **Choose the length** of your password (because size *does* matter).
 - 🥳 **Add emojis, characters, or both**, because who doesn't love a 💎 in their password?
 - ✌️ **No clutter, no mess**, runs straight from your terminal like a pro hacker!
@@ -22,8 +21,8 @@ It's as easy as stealing cookies from a cookie jar (don't actually do that). Jus
 
 ```bash
 # Clone the magic!
-git clone https://github.com/yourusername/PassGenie.git
-cd PassGenie
+git clone https://github.com/rahulnagilla01/emoji-password-generator.git
+cd emoji-password-generator
 
-# Run the genie!
-python passgenie.py
+# Run the magic!
+python emoji_password_generator.py
