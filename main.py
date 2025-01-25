@@ -33,7 +33,7 @@ elif choosen_set == "Fruits":
 elif choosen_set == "All":
     choosen_set = All
 else:
-    print("Please choose one set from one set.")
+    print("Please choose one set from above sets.")
 
 
 
